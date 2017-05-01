@@ -1,0 +1,7 @@
+requests
+boto3
+awscli
+#psycopg2 #installed through libs
+pytest
+testing.postgresql
+gtfs-realtime-bindings

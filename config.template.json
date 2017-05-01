@@ -1,0 +1,7 @@
+{
+  "feed_url": "https://sncb-opendata.hafas.de/gtfs/static/xxx",
+  "realtime_url": "https://sncb-opendata.hafas.de/gtfs/realtime/xxx",
+  "bucket": "mybucket",
+  "key_prefix": "raw/nmbs/realtime",
+  "connection_string": "postgresql://user:password@host/database"
+}
